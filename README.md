@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, I'm Gabi! :)
 
-<!--
-**gabrielabarrence/gabrielabarrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📌 Technology Future Club Intern at IBM Brazil;
+ >  
+> 📚 Currently studying System Analysis and Development; 
+ > 
+> 🎓 Graphic Designer;
+  > 
+> ❣️ UX/UI and Front-end enthusiast! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me!
+
+```
+gabriela.barrence@gmail.com
+```
+ 
+<div alignt="center"> 
+  <a href="https://github.com/gabrielabarrence" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:gabriela.barrence@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
+   <a href="https://www.linkedin.com/in/barrence/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ ##
+ 
+ <div align="center">
+  <a href="https://github.com/gabrielabarrence">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielabarrence&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielabarrence&layout=compact&langs_count=7&theme=omni"/>
+</div>
