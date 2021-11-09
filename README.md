@@ -16,7 +16,7 @@ gabriela.barrence@gmail.com
 ```
  
 <div alignt="center"> 
-  <a href="https://github.com/gabrielabarrence" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https:/behance.net/barrence" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <!--<a href = "mailto:gabriela.barrence@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
    <a href="https://www.linkedin.com/in/barrence/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
