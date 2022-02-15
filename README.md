@@ -2,7 +2,7 @@
 
 > 📌 Technology Future Club Intern at IBM Brazil;
  >  
-> 📚 Currently studying System Analysis and Development; 
+> 📚 Currently studying Computer Science; 
  > 
 > 🎓 Graphic Designer;
   > 
