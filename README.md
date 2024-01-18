@@ -1,12 +1,12 @@
 ## Hi, I'm Gabi! :)
 
-> 📌 Technology Future Club Intern at IBM Brazil;
+> 📌 UX Designer at IBM;
  >  
-> 📚 Currently studying Computer Science; 
+> 📚 Currently studying Data Science; 
  > 
 > 🎓 Graphic Designer;
   > 
-> ❣️ UX/UI and Front-end enthusiast! 
+> ❣️ Security enthusiast! 
 
 
 ## Contact me!
